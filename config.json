@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://apricot-crisp-04779.herokuapp.com/",
+  "change_calculator": "https://lychee-shortcake-59468.herokuapp.com/",
+  "astroweight_calculator": "https://change-calculator-deploy-all.herokuapp.com/",
+  "top_spots": "https://desolate-retreat-97894.herokuapp.com/"
+  
 }
